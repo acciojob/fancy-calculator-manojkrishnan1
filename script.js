@@ -3,4 +3,4 @@
   let b = prompt("Enter Second Input");
 
   let result = Number(a)*2 + Number(b);
-  alert(result);
+  alert("The final result is: "+result);
